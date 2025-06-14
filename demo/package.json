@@ -1,0 +1,16 @@
+{
+  "name": "check-your-sources-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.5.1",
+    "@google/generative-ai": "^0.24.1",
+    "cheerio": "^1.1.0",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2",
+    "selenium-webdriver": "^4.33.0"
+  }
+}
